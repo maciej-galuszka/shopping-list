@@ -59,12 +59,12 @@ To run the project locally:
    ```bash
    git clone https://github.com/your-username/smart-groceries.git
 2. Navigate to the project directory:
-cd smart-groceries
-
-3. Install dependencies:
-npm install
-
-4. Start the development server:
-npm start
-
-5. Open http://localhost:3000 in your browser.
+   ```bash
+   cd smart-groceries
+4. Install dependencies:
+   ```bash
+   npm install
+5. Start the development server:
+   ```bash
+   npm start
+6. Open http://localhost:3000 in your browser.
