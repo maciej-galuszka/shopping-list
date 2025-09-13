@@ -10,7 +10,6 @@ Smart Groceries is a simple and interactive shopping list web application built 
 - Sorting options 🔄: Sort list by input order, description, or packed status.  
 - Clear list 🧹: Remove all items at once with a single click.  
 - Stats footer 📊: Displays number of items and packing progress.  
-- Responsive UI 📱💻: Works across different devices.  
 
 ## Usage 🖱️
 
@@ -23,8 +22,8 @@ Smart Groceries is a simple and interactive shopping list web application built 
 
 ## Technologies used 💻
 
-- React (useState)  
-- JavaScript (ES6+)  
+- React  
+- JavaScript  
 - HTML5  
 - CSS3  
 
